@@ -90,7 +90,6 @@ body {
   font-weight: bolder;
   -webkit-transition: color 0.2s ease-in;
   transition: color 0.2s ease-in;
-  width: 60%;
 }
 
 .mid .cur-name:hover {
